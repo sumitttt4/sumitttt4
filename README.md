@@ -15,4 +15,4 @@ I'm Sumit, a UI/UX designer and frontend developer based in Bengaluru. I love tu
 ### let's connect
 If you're working on something interesting or have opportunities in design/frontend dev, I'd love to chat.
 
-Reach me through my site at sumitsharmaa.me or on X at @Sumitthq
+Reach me through my site at https//sumitsharmaa.me or on X at @Sumitthq
