@@ -1,44 +1,25 @@
-# Hi, I'm Sumit 
+# Sumit Sharma
 
-**Design Engineer & Product Builder** — I turn rough ideas into polished, usable internet products. Full Figma-to-production stack, solo.
+Design engineer and frontend engineer. Based in India.
 
-I work across product, frontend, AI, and growth — taking things from first concept to something people actually pay for.
+I build products for the web, from the first interface to the details of how it works. I shipped [Glyph](https://glyph.software), a brand-identity tool, and I make tools for people who build interfaces: Glaze, Glyph-Skill, and Slate.
 
-Currently building **[Glyph](https://glyph.software)**, an AI-powered brand identity tool, and shipping design + frontend systems for early-stage teams through **[Fedup Studio](https://fedup.studio)**.
+## Work
 
-- 🔭 Building **Glyph** — AI brand generation, from design to Stripe checkout
-- 🌱 Open-sourced **Glyph Skill** — a design skill for AI coding assistants
-- 🛠️ Running **Fedup Studio** — design-to-production for early-stage teams
-- 💬 Ask me about product building, frontend engineering, UX, or AI tooling
-- 📫 Reach me at: **[sumitsharma9128@gmail.com](mailto:sumitsharma9128@gmail.com)**
+**[Glyph](https://glyph.software)** — Describe your idea and get a logo, colours, typography, and brand assets, then take the identity into your AI builder.
 
-## 🛠️ Stack
+**[Glyph-Skill](https://github.com/sumitttt4/Glyph-Skill)** — Open-source design skill for coding assistants. It helps them understand the product, choose a direction, build the interface, and check what actually rendered.
 
-- **Languages**: TypeScript, JavaScript, HTML, CSS, SQL
-- **Frontend**: React, Next.js, Tailwind CSS, Framer Motion, React Native
-- **Backend & Data**: Supabase, PostgreSQL, Clerk
-- **AI & Automation**: LLM APIs, n8n, AI coding workflows
-- **Tools**: Vercel, Git/GitHub, Figma
+**[Glaze](https://glazeui.xyz)** — Open-source React components for interfaces, AI, and voice, each in four finishes. Install any component with one shadcn command. ([GitHub](https://github.com/sumitttt4/Glazeui))
 
-## 🚀 Featured Projects
+**[Slate](https://sumitsharma.pro/projects/slate)** — A library of crafted launch films you can make yours. Swap in your brand and the film preview updates live.
 
-### [Glyph](https://glyph.software)
-AI-powered brand identity generation for founders — built solo end-to-end, from the brand-generation flow to the frontend system, auth, and payments.
-`Next.js` · `TypeScript` · `Supabase` · `Clerk` · `Tailwind CSS`
+**[Fedup Studio](https://fedup.studio)** — A free library of complete landing pages taken from real open-source products. Preview a page, take the code, make it yours.
 
-### [Glyph Skill](https://github.com/sumitttt4/Glyph-Skill)
-Open-source design skill for AI coding assistants — enforceable layout, typography, and brand rules that make AI-generated product UI actually look designed.
-`TypeScript` · `Markdown` · `AI coding workflows`
+## Stack
 
-### [Fedup Studio](https://fedup.studio)
-Design and frontend systems for early-stage teams — no handoff, one person from Figma to shipped product.
+TypeScript, React, and Next.js, styled with Tailwind, designed in Figma. Node.js, Supabase, PostgreSQL, Clerk, and Stripe when a product needs to ship.
 
-## 📫 Connect
+## Contact
 
-- 🌐 Portfolio: [sumitsharma.me](https://sumitsharma.me)
-- 🏢 Studio: [fedup.studio](https://fedup.studio)
-- 🐦 X: [@sumitdotme](https://x.com/sumitdotme)
-- 💼 LinkedIn: [sumitsharma4](https://www.linkedin.com/in/sumitsharma4)
-- 📧 Email: [sumitsharma9128@gmail.com](mailto:sumitsharma9128@gmail.com)
-
-✨ Building products with taste, speed, and a bias toward shipping.
+[sumitsharma.pro](https://sumitsharma.pro) · [X](https://x.com/sumitdotme) · [LinkedIn](https://www.linkedin.com/in/sumitsharma4) · [Email](mailto:sumitsharma9128@gmail.com)
